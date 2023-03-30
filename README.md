@@ -1,7 +1,8 @@
-# Projeto Exercicios Php
+# <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> Projeto Exercicios Php <img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
 
 💻 Este seguinte projeto é uma prática de exercicios de páginas web simples em programação básica Php 💻
-Sendo o meu primeiro contato com a linguagem de programação.
+
+Sendo assim, o meu primeiro contato com a linguagem de programação Php.
 
 ----------------------------------------------------------------------------
 ### Prática do repositório:
@@ -14,5 +15,4 @@ Sendo o meu primeiro contato com a linguagem de programação.
 ----------------------------------------------------------------------------
 
 ### Linguagens de programação que utilizei no projeto: 
-
- <img  align="center" alt="C#" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /> :  CSharp
+<img align="center" alt="Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"> = Php
