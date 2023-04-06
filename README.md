@@ -13,6 +13,8 @@ Sendo assim, o meu primeiro contato com a linguagem de programação Php.
 
 3️⃣ - Criar um exemplo prático que apresente informações de uma venda cadastrada e realizada.
 
+4️⃣ - Criar um exemplo prático que apresente informações de uma venda e realizada e estilizar a página web.
+
 
 ----------------------------------------------------------------------------
 
