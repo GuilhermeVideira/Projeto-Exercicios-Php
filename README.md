@@ -11,6 +11,8 @@ Sendo assim, o meu primeiro contato com a linguagem de programação Php.
 
 2️⃣ - Criar um exemplo prático que apresente informações que forma digitas pelo úsuario e some os valores.
 
+3️⃣ - Criar um exemplo prático que apresente informações de uma venda cadastrada e realizada.
+
 
 ----------------------------------------------------------------------------
 
