@@ -15,7 +15,6 @@ Sendo assim, o meu primeiro contato com a linguagem de programação Php.
 
 4️⃣ - Criar um exemplo prático que apresente informações de uma venda e realizada e estilizar a página web.
 
-
 ----------------------------------------------------------------------------
 
 ### Linguagens de programação que utilizei no projeto: 
